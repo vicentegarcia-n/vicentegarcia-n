@@ -29,7 +29,7 @@ Computer Science Engineering
 - Self-taught
 - Analysis
 
-## 📫 Cómo contactarme:
+## 📫 Contact me
 - Email: vicente.garcian@alumno.buap.mx
 - LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/vicentegarcia-n/)
 - Credly: [My Credly profile](https://www.credly.com/users/vicente-alfredo-garcia-nava)
