@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hi, there! 👋
 
-<!--
-**vicentegarcia-n/vicentegarcia-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Professional Statement
+My name is Vicente García. I am interested and motivated to protect people's data from threat agents, ensuring the confidentiality, integrity, and availability of information. I focus on system and information monitoring, as well as defense techniques against cyberattacks. By utilizing communication and teamwork, I can act quickly and efficiently in critical situations, with an ethical approach and aligned with legal compliance.
 
-Here are some ideas to get you started:
+## 🎓 EDUCATION
+- Universidad Autónoma de Guerrero (UAGRO)  
+Unidad Académica Preparatoria #26 “Albert Einstein”  
+University Baccalaureate  
+2016 – 2019
+  
+- Benemérita Universidad Autónoma de Puebla (BUAP)  
+Facultad de Ciencias de la Computación (FCC)  
+Computer Science Engineering  
+2020 – In progress...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- Cybersecurity
+- OSI - TCP/IP models
+- Network connectivity and configuration
+- Linux system administration
+- Cisco device configuration
+- Python
+
+## 🤝 Soft Skills
+- Communication
+- Collaboration
+- Troubleshooting
+- Self-taught
+- Analysis
+
+## 📫 Cómo contactarme:
+- Email: vicente.garcian@alumno.buap.mx
+- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/vicentegarcia-n/)
+- Credly: [My Credly profile](https://www.credly.com/users/vicente-alfredo-garcia-nava)
+- X: [@vicentegarcia_n](https://twitter.com/mariaejemplo)
