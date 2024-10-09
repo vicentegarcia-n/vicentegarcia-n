@@ -4,15 +4,15 @@
 My name is Vicente García. I am interested and motivated to protect people's data from threat agents, ensuring the confidentiality, integrity, and availability of information. I focus on system and information monitoring, as well as defense techniques against cyberattacks. By utilizing communication and teamwork, I can act quickly and efficiently in critical situations, with an ethical approach and aligned with legal compliance.
 
 ## 🎓 EDUCATION
-- Universidad Autónoma de Guerrero (UAGRO)  
-Unidad Académica Preparatoria #26 “Albert Einstein”  
+- **Universidad Autónoma de Guerrero (UAGRO)**  
+**Unidad Académica Preparatoria #26 “Albert Einstein”**  
 University Baccalaureate  
-2016 – 2019
+*2016 – 2019*
   
-- Benemérita Universidad Autónoma de Puebla (BUAP)  
-Facultad de Ciencias de la Computación (FCC)  
+- **Benemérita Universidad Autónoma de Puebla (BUAP)**  
+**Facultad de Ciencias de la Computación (FCC)**  
 Computer Science Engineering  
-2020 – In progress...  
+*2020 – In progress...*  
 
 ## 🛠️ Technical Skills
 - Cybersecurity
