@@ -3,7 +3,7 @@
 ## 💼 Professional Statement
 My name is Vicente García. I am interested and motivated to protect people's data from threat agents, ensuring the confidentiality, integrity, and availability of information. I focus on system and information monitoring, as well as defense techniques against cyberattacks. By utilizing communication and teamwork, I can act quickly and efficiently in critical situations, with an ethical approach and aligned with legal compliance.
 
-## 🎓 EDUCATION
+## 🎓 Education
 - **Universidad Autónoma de Guerrero (UAGRO)**  
 **Unidad Académica Preparatoria #26 “Albert Einstein”**  
 University Baccalaureate  
