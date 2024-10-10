@@ -14,6 +14,9 @@ University Baccalaureate
 Computer Science Engineering  
 *2020 – In progress...*  
 
+## 📈 Projects
+- [Security audit: Botium Toys](https://github.com/vicentegarcia-n/BotiumToys_Auditoria): Security audit conducted at Botium Toys (fictitious company), where security controls, regulatory compliance are examined and a memorandum is issued to interested parties.
+
 ## 🛠️ Technical Skills
 - Cybersecurity
 - OSI - TCP/IP models
