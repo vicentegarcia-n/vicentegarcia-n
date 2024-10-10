@@ -16,6 +16,7 @@ Computer Science Engineering
 
 ## 📈 Projects
 - [Security audit: Botium Toys](https://github.com/vicentegarcia-n/BotiumToys_Auditoria): Security audit conducted at Botium Toys (fictitious company), where security controls, regulatory compliance are examined and a memorandum is issued to interested parties.
+- [Chat](https://github.com/lilalizzza/Chat): This chat is held in the subject "Operating Systems", Python is used, TCP and UDP protocols are handled.
 
 ## 🛠️ Technical Skills
 - Cybersecurity
