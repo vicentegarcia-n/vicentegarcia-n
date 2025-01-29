@@ -6,10 +6,10 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 ## ¿Qué he hecho? 🤔
 
 ### Licencias y certificaciones 📜
-- CCNA: Introduction to Networks
-- Python Essentials 1
-- Introduction to Packet Tracer
-- Certificado de Ciberseguridad de Google
+- [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Vicente%20AlfredoGarcia%20Nava-20CCNA1%20Ver7%20Pri-certificate.pdf)
+- [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Python_Essentials_1_certificate_vicente-garcian-alumno-buap-mx_c724b2fd-0cde-4e21-988e-9d9148f7669c.pdf)
+- [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Introduction_to_Packet_Tracer_certificate_vicente-garcian-alumno-buap-mx_0d72de25-ed60-4145-80b7-335cf6c438b2.pdf)
+- [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Coursera%20DDYR0QTF9BH2.pdf)
   1. Fundamentos de la ciberseguridad
   2. Ve a lo seguro: Gestiona los riesgos de seguridad
   3. Conexión y protección: Redes y seguridad de redes
