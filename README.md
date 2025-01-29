@@ -10,7 +10,14 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 - Python Essentials 1
 - Introduction to Packet Tracer
 - Certificado de Ciberseguridad de Google
-  - hola
+  - Fundamentos de la ciberseguridad
+  - Ve a lo seguro: Gestiona los riesgos de seguridad
+  - Conexión y protección: Redes y seguridad de redes
+  - Herramientas del oficio: Linux y SQL
+  - Activos, amenazas y vulnerabilidades
+  - Haz sonar la alarma: Detección y respuesta
+  - Automatiza las tareas de ciberseguridad con Python
+  - Ponlo en práctica: Prepárate para los trabajos en ciberseguridad
 
 ### Proyectos 🚀
 - [Security audit: Botium Toys](https://github.com/vicentegarcia-n/BotiumToys_Auditoria): Security audit conducted at Botium Toys (fictitious company), where security controls, regulatory compliance are examined and a memorandum is issued to interested parties.
