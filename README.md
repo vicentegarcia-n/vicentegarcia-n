@@ -21,7 +21,7 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 
 ### Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
-- [Chat TCP & UDP](https://github.com/lilalizzza/Chat): Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
+- [Chat TCP & UDP:](https://github.com/lilalizzza/Chat) Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
 
 Proyectos hechos mientras cursaba: Certificado de Ciberseguridad de Google
 - [Realiza una auditoría de seguridad](https://github.com/vicentegarcia-n/realiza-una-auditoria-de-seguridad)
