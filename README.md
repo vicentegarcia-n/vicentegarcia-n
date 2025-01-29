@@ -25,11 +25,11 @@ Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
 
 Proyectos hechos mientras cursaba: Certificado de Ciberseguridad de Google
 - [Realiza una auditoría de seguridad](https://github.com/vicentegarcia-n/realiza-una-auditoria-de-seguridad)
-- Usa el Marco de Ciberseguridad del NIST para responder a un incidente de seguridad
-- Usa comandos de Linux para administrar permisos de archivo
-- Aplica filtros a consultas SQL
-- Finaliza tu diario de gestión de incidentes
-- Actualiza un archivo a través de un algoritmo Python
+- [Usa el Marco de Ciberseguridad del NIST para responder a un incidente de seguridad](https://github.com/vicentegarcia-n/usa-el-marco-de-ciberseguridad-del-nist-para-responder-a-un-incidente-de-seguridad)
+- [Usa comandos de Linux para administrar permisos de archivo](https://github.com/vicentegarcia-n/usa-comandos-de-linux-para-administrar-permisos-de-archivo)
+- [Aplica filtros a consultas SQL](https://github.com/vicentegarcia-n/aplica-filtros-a-consultas-sql)
+- [Finaliza tu diario de gestión de incidentes](https://github.com/vicentegarcia-n/finaliza-tu-diario-de-gestion-de-incidentes)
+- [Actualiza un archivo a través de un algoritmo Python](https://github.com/vicentegarcia-n/actualiza-un-archivo-a-traves-de-un-algoritmo-python)
 
 ## Contáctame 📫
 - Correo electrónico: vicente.garcian@alumno.buap.mx
