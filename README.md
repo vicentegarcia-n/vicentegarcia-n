@@ -20,7 +20,7 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
   - Ponlo en práctica: Prepárate para los trabajos en ciberseguridad
 
 ### Proyectos 🚀
-- [Chat TCP & UDP](https://github.com/lilalizzza/Chat): Esta chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
+- [Chat TCP & UDP](https://github.com/lilalizzza/Chat): Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
 
 ## Contáctame 📫
 - Correo electrónico: vicente.garcian@alumno.buap.mx
