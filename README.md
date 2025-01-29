@@ -23,6 +23,14 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
 - [Chat TCP & UDP](https://github.com/lilalizzza/Chat): Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
 
+Proyectos hechos mientras cursaba: Certificado de Ciberseguridad de Google
+- Realiza una auditoría de seguridad
+- Usa el Marco de Ciberseguridad del NIST para responder a un incidente de seguridad
+- Usa comandos de Linux para administrar permisos de archivo
+- Aplica filtros a consultas SQL
+- Finaliza tu diario de gestión de incidentes
+- Actualiza un archivo a través de un algoritmo Python
+
 ## Contáctame 📫
 - Correo electrónico: vicente.garcian@alumno.buap.mx
 - LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/vicentegarcia-n/)
