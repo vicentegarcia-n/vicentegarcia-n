@@ -10,14 +10,14 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 - Python Essentials 1
 - Introduction to Packet Tracer
 - Certificado de Ciberseguridad de Google
-  - Fundamentos de la ciberseguridad
-  - Ve a lo seguro: Gestiona los riesgos de seguridad
-  - Conexión y protección: Redes y seguridad de redes
-  - Herramientas del oficio: Linux y SQL
-  - Activos, amenazas y vulnerabilidades
-  - Haz sonar la alarma: Detección y respuesta
-  - Automatiza las tareas de ciberseguridad con Python
-  - Ponlo en práctica: Prepárate para los trabajos en ciberseguridad
+  1. Fundamentos de la ciberseguridad
+  2. Ve a lo seguro: Gestiona los riesgos de seguridad
+  3. Conexión y protección: Redes y seguridad de redes
+  4. Herramientas del oficio: Linux y SQL
+  5. Activos, amenazas y vulnerabilidades
+  6. Haz sonar la alarma: Detección y respuesta
+  7. Automatiza las tareas de ciberseguridad con Python
+  8. Ponlo en práctica: Prepárate para los trabajos en ciberseguridad
 
 ### Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
