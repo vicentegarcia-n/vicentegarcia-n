@@ -20,7 +20,7 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
   - Ponlo en práctica: Prepárate para los trabajos en ciberseguridad
 
 ### Proyectos 🚀
-Ingeniería en Ciencias de la Computación - Facultad de Ciencias de la Computación - Benemérita Universidad Autónoma de Puebla
+Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
 - [Chat TCP & UDP](https://github.com/lilalizzza/Chat): Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
 
 ## Contáctame 📫
