@@ -6,18 +6,18 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 ## ¿Qué he hecho? 🤔
 
 ### Licencias y certificaciones 📜
-- [CCNA: Introduction to Networks]()
-- [Python Essentials 1]()
-- [Introduction to Packet Tracer]()
-- [Certificado de Ciberseguridad de Google]()
-  1. [Fundamentos de la ciberseguridad]()
-  2. [Ve a lo seguro: Gestiona los riesgos de seguridad]()
-  3. [Conexión y protección: Redes y seguridad de redes]()
-  4. [Herramientas del oficio: Linux y SQL]()
-  5. [Activos, amenazas y vulnerabilidades]()
-  6. [Haz sonar la alarma: Detección y respuesta]()
-  7. [Automatiza las tareas de ciberseguridad con Python]()
-  8. [Ponlo en práctica: Prepárate para los trabajos en ciberseguridad]()
+- [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CCNA/Vicente%20AlfredoGarcia%20Nava-20CCNA1%20Ver7%20Pri-certificate.pdf)
+- [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Python%20Essentials/Python_Essentials_1_certificate_vicente-garcian-alumno-buap-mx_c724b2fd-0cde-4e21-988e-9d9148f7669c.pdf)
+- [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Introduction_to_Packet_Tracer_certificate_vicente-garcian-alumno-buap-mx_0d72de25-ed60-4145-80b7-335cf6c438b2.pdf)
+- [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20DDYR0QTF9BH2.pdf)
+  1. [Fundamentos de la ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20RTSYUH1JC3PD.pdf)
+  2. [Ve a lo seguro: Gestiona los riesgos de seguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%205J06RG1XFSFT.pdf)
+  3. [Conexión y protección: Redes y seguridad de redes](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20JUI1GY982CP7.pdf)
+  4. [Herramientas del oficio: Linux y SQL](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%204AB3PHUPTJNW.pdf)
+  5. [Activos, amenazas y vulnerabilidades](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20JGL7RZ2OU4DK.pdf)
+  6. [Haz sonar la alarma: Detección y respuesta](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20NEJ3EHQWNCXR.pdf)
+  7. [Automatiza las tareas de ciberseguridad con Python](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%204NAWPSA29UQZ.pdf)
+  8. [Ponlo en práctica: Prepárate para los trabajos en ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%2064DD5R7LOWIN.pdf)
 
 ### Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
