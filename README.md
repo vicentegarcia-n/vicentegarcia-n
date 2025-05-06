@@ -7,9 +7,9 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 
 ### Licencias y certificaciones 📜
 - [Introduction to Packet Tracer]()
+- [Python Essentials 1]()
 - [CCNA: Introduction to Networks]()
 - [CCNA: Switching, Routing, and Wireless Essentials]()
-- [Python Essentials 1]()
 - [Certificado de Ciberseguridad de Google]()
   1. [Fundamentos de la ciberseguridad]()
   2. [Ve a lo seguro: Gestiona los riesgos de seguridad]()
