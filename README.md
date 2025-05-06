@@ -7,6 +7,7 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 
 ### Licencias y certificaciones 📜
 - [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CCNA/Vicente%20AlfredoGarcia%20Nava-20CCNA1%20Ver7%20Pri-certificate.pdf)
+- [CCNA: Switching, Routing, and Wireless Essentials]()
 - [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Python%20Essentials/Python_Essentials_1_certificate_vicente-garcian-alumno-buap-mx_c724b2fd-0cde-4e21-988e-9d9148f7669c.pdf)
 - [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Introduction_to_Packet_Tracer_certificate_vicente-garcian-alumno-buap-mx_0d72de25-ed60-4145-80b7-335cf6c438b2.pdf)
 - [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20DDYR0QTF9BH2.pdf)
