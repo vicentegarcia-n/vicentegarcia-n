@@ -6,10 +6,10 @@ Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las per
 ## ¿Qué he hecho? 🤔
 
 ### Licencias y certificaciones 📜
-- [Introduction to Packet Tracer]()
-- [Python Essentials 1]()
-- [CCNA: Introduction to Networks]()
-- [CCNA: Switching, Routing, and Wireless Essentials]()
+- [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Introduction%20to%20Packet%20Tracer.pdf)
+- [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Python%20Essentials/Python%20Essentials%201.pdf)
+- [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
+- [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
 - [Certificado de Ciberseguridad de Google]()
   1. [Fundamentos de la ciberseguridad]()
   2. [Ve a lo seguro: Gestiona los riesgos de seguridad]()
