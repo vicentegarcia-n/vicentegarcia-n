@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ## Declaración Profesional 💼
-Mi nombre es Vicente García. Me interesa y motiva proteger los datos de las personas de los agentes de amenaza, manteniendo la confidencialidad, la integridad y disponibilidad de la información. Profundizando en el monitoreo de los sistemas y la información, y las técnicas de defensa contra ataques cibernéticos. Utilizando la comunicación y el trabajo en equipo me permitiría actuar con rapidez y eficacia en situaciones críticas, con un enfoque ético y alineado al cumplimiento de las leyes.
+Como NOC Specialist, soy responsable de supervisar, mantener y solucionar problemas de la infraestructura de red de múltiples organizaciones para garantizar un rendimiento y un tiempo de actividad óptimos. Actúo como primera línea de defensa contra interrupciones de la red y tengo un papel fundamental en la continuidad del negocio.
 
 ## ¿Qué he hecho? 🤔
 
