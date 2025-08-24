@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 ## Declaración Profesional 💼
-Como NOC Specialist, soy responsable de supervisar, mantener y solucionar problemas de la infraestructura de red de múltiples organizaciones para garantizar un rendimiento y un tiempo de actividad óptimos. Actúo como primera línea de defensa contra interrupciones de la red y tengo un papel fundamental en la continuidad del negocio.
+Como NOC Specialist, soy responsable de supervisar, mantener y solucionar problemas de la infraestructura de red de múltiples organizaciones para garantizar un rendimiento y un tiempo de actividad óptimos. Actúo como primera línea de defensa contra interrupciones de la red y tengo un papel fundamental en la continuidad del negocio, en un entorno colabororativo y de alta presión.
 
 ## ¿Qué he hecho? 🤔
 
