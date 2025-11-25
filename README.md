@@ -8,6 +8,9 @@ Como NOC Specialist, soy responsable de monitorear, mantener y solucionar proble
 ### Licencias y certificaciones 📜
 - [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Python%20Essentials/Python%20Essentials%201.pdf)
 - [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Introduction%20to%20Packet%20Tracer.pdf)
+  1. [Getting Started with Cisco Packet Tracer]()
+  2. [Exploring Networking with Cisco Packet Tracer]()
+  3. [Exploring Internet of Things with Cisco Packet Tracer]() 
 - Cisco Certified Network Associate (CCNA)
   1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
   2. [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
