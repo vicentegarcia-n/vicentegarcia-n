@@ -10,7 +10,7 @@ Como NOC Specialist, soy responsable de monitorear, mantener y solucionar proble
 - [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Python%20Essentials/Python%20Essentials%201.pdf)
 - [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
 - [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
-- [CCNA: Enterprise Networking, Security, and Automation Cisco]()
+- [CCNA: Enterprise Networking, Security, and Automation]()
 - [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20DDYR0QTF9BH2.pdf)
   1. [Fundamentos de la ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20RTSYUH1JC3PD.pdf)
   2. [Ve a lo seguro: Gestiona los riesgos de seguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%205J06RG1XFSFT.pdf)
