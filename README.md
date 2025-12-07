@@ -13,9 +13,9 @@ Como NOC Specialist, soy responsable de monitorear, mantener y solucionar proble
   2. [Exploring Networking with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Exploring%20Networking%20with%20Cisco%20Packet%20Tracer.pdf)
   3. [Exploring Internet of Things with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Exploring%20Internet%20of%20Things%20with%20Cisco%20Packet%20Tracer.pdf)
 
-- [Black Belt Meraki Support Stage 1]()
-- [Black Belt Meraki Support Stage 2]()
-- [Black Belt Meraki Support Stage 3]()
+- [Black Belt Meraki Support Stage 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%201.pdf)
+- [Black Belt Meraki Support Stage 2](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%202.pdf)
+- [Black Belt Meraki Support Stage 3](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%203.pdf)
 
 - Cisco Certified Network Associate (CCNA)
   1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
