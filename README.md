@@ -7,17 +7,21 @@ Como NOC Specialist, soy responsable de monitorear, mantener y solucionar proble
 
 ### Licencias y certificaciones 📜
 - [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Python%20Essentials/Python%20Essentials%201.pdf)
+
 - [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Introduction%20to%20Packet%20Tracer.pdf)
   1. [Getting Started with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Getting%20Started%20with%20Cisco%20Packet%20Tracer.pdf)
   2. [Exploring Networking with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Exploring%20Networking%20with%20Cisco%20Packet%20Tracer.pdf)
   3. [Exploring Internet of Things with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Exploring%20Internet%20of%20Things%20with%20Cisco%20Packet%20Tracer.pdf)
+
 - [Black Belt Meraki Support Stage 1]()
 - [Black Belt Meraki Support Stage 2]()
 - [Black Belt Meraki Support Stage 3]()
+
 - Cisco Certified Network Associate (CCNA)
   1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
   2. [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
   3. [CCNA: Enterprise Networking, Security, and Automation](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.pdf)
+
 - [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20DDYR0QTF9BH2.pdf)
   1. [Fundamentos de la ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20RTSYUH1JC3PD.pdf)
   2. [Ve a lo seguro: Gestiona los riesgos de seguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%205J06RG1XFSFT.pdf)
