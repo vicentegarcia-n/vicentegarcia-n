@@ -1,7 +1,9 @@
 # ¡Hola! 👋
 
 ## Acerca de 💼
-Como NOC Specialist, soy responsable de monitorear, mantener y solucionar problemas de la infraestructura de red de múltiples organizaciones para garantizar un rendimiento y una disponibilidad óptimos. Actúo como primera línea de defensa frente a interrupciones de la red y desempeño un papel fundamental en la continuidad del negocio, dentro de un entorno colaborativo y de alta presión.
+Ingeniero en Ciencias de la Computación con experiencia como NOC Specialist, especializado en monitoreo de infraestructura, análisis de eventos y gestión de incidentes en entornos productivos.
+Trabajo directamente con redes y sistemas, enfocándome en la detección, diagnóstico y resolución de fallas, así como en la continuidad operativa de servicios críticos. Tengo interés sólido en ciberseguridad, redes y administración de sistemas Linux.
+Cuento con un enfoque técnico, analítico y orientado a la mejora continua, buscando no solo resolver problemas, sino entender su causa raíz y prevenir su recurrencia.
 
 ## ¿Qué he hecho? 🤔
 
