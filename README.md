@@ -2,7 +2,9 @@
 
 ## Acerca de 💼
 Ingeniero en Ciencias de la Computación con experiencia como NOC Specialist, especializado en monitoreo de infraestructura, análisis de eventos y gestión de incidentes en entornos productivos.
+
 Trabajo directamente con redes y sistemas, enfocándome en la detección, diagnóstico y resolución de fallas, así como en la continuidad operativa de servicios críticos. Tengo interés sólido en ciberseguridad, redes y administración de sistemas Linux.
+
 Cuento con un enfoque técnico, analítico y orientado a la mejora continua, buscando no solo resolver problemas, sino entender su causa raíz y prevenir su recurrencia.
 
 ## ¿Qué he hecho? 🤔
