@@ -50,5 +50,5 @@ Proyectos hechos mientras cursaba: Certificado de Ciberseguridad de Google
 
 ## Contáctame 📫
 - Correo electrónico: vicente.garcian@alumno.buap.mx
-- LinkedIn: [Vicente Alfredo García Nava](https://www.linkedin.com/in/vicentegarcia-n/)
+- LinkedIn: [Vicente García](https://www.linkedin.com/in/vicentegarcia-n/)
 - X: [@vicentegarcia_n](https://x.com/vicentegarcia_n)
