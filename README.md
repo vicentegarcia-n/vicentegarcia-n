@@ -17,7 +17,7 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
     2. [Black Belt Meraki Support Stage 2](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%202.pdf)
     3. [Black Belt Meraki Support Stage 3](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%203.pdf)
 
-- CISCO NETWORKING ACADEMY <br><br>
+- CISCO NETWORKING ACADEMY <br>
 
   a. Cisco Certified Network Associate (CCNA)
     1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
@@ -32,7 +32,7 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
   c. Python Essentials
     1. [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Python%20Essentials/Python%20Essentials%201.pdf)
 
-- GOOGLE CAREER CERTIFICATES <br><br>
+- GOOGLE CAREER CERTIFICATES <br>
   a. [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20DDYR0QTF9BH2.pdf)
     1. [Fundamentos de la ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20RTSYUH1JC3PD.pdf)
     2. [Ve a lo seguro: Gestiona los riesgos de seguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%205J06RG1XFSFT.pdf)
