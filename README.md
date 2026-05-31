@@ -51,6 +51,11 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
     - [Getting Started with WiFi](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/HPE%20NETWORKING%20EDUCATION%20SERVICES/Get%20Started%20for%20Free/Getting%20Started%20with%20WiFi.pdf)
     - [Getting Started with Cloud](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/HPE%20NETWORKING%20EDUCATION%20SERVICES/Get%20Started%20for%20Free/Getting%20Started%20with%20Cloud.pdf)
 
+- **PELLERA TECHNOLOGIES**
+  - [MSO Time Tracking]()
+  - [MSO Incident Management]()
+  - [MSO Change Management]()
+
 ## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
 - [Chat TCP & UDP:](https://github.com/lilalizzza/Chat) Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
