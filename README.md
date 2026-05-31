@@ -26,15 +26,16 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
   c. Python Essentials
     1. [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Python%20Essentials/Python%20Essentials%201.pdf)
 
-- [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20DDYR0QTF9BH2.pdf)
-  1. [Fundamentos de la ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20RTSYUH1JC3PD.pdf)
-  2. [Ve a lo seguro: Gestiona los riesgos de seguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%205J06RG1XFSFT.pdf)
-  3. [Conexión y protección: Redes y seguridad de redes](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20JUI1GY982CP7.pdf)
-  4. [Herramientas del oficio: Linux y SQL](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%204AB3PHUPTJNW.pdf)
-  5. [Activos, amenazas y vulnerabilidades](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20JGL7RZ2OU4DK.pdf)
-  6. [Haz sonar la alarma: Detección y respuesta](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20NEJ3EHQWNCXR.pdf)
-  7. [Automatiza las tareas de ciberseguridad con Python](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%204NAWPSA29UQZ.pdf)
-  8. [Ponlo en práctica: Prepárate para los trabajos en ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%2064DD5R7LOWIN.pdf)
+- GOOGLE CAREER CERTIFICATES <br><br>
+  a. [Certificado de Ciberseguridad de Google](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20DDYR0QTF9BH2.pdf)
+    1. [Fundamentos de la ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20RTSYUH1JC3PD.pdf)
+    2. [Ve a lo seguro: Gestiona los riesgos de seguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%205J06RG1XFSFT.pdf)
+    3. [Conexión y protección: Redes y seguridad de redes](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20JUI1GY982CP7.pdf)
+    4. [Herramientas del oficio: Linux y SQL](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%204AB3PHUPTJNW.pdf)
+    5. [Activos, amenazas y vulnerabilidades](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20JGL7RZ2OU4DK.pdf)
+    6. [Haz sonar la alarma: Detección y respuesta](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%20NEJ3EHQWNCXR.pdf)
+    7. [Automatiza las tareas de ciberseguridad con Python](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%204NAWPSA29UQZ.pdf)
+    8. [Ponlo en práctica: Prepárate para los trabajos en ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%2064DD5R7LOWIN.pdf)
 
 - CISCO BLACK BELT ACADEMY <br><br>
   a. Meraki Support
