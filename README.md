@@ -18,7 +18,6 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
     3. [Black Belt Meraki Support Stage 3](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%203.pdf)
 
 - CISCO NETWORKING ACADEMY <br>
-
   a. Cisco Certified Network Associate (CCNA)
     1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
     2. [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
