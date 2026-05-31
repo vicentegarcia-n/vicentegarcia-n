@@ -44,6 +44,10 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
     7. [Automatiza las tareas de ciberseguridad con Python](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%204NAWPSA29UQZ.pdf)
     8. [Ponlo en práctica: Prepárate para los trabajos en ciberseguridad](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/GOOGLE%20CAREER%20CERTIFICATES/Certificado%20de%20Ciberseguridad%20de%20Google/Coursera%2064DD5R7LOWIN.pdf)
 
+- **HPE NETWORKING EDUCATION SERVICES**
+
+  - Networking Technology Foundations
+
 ## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
 - [Chat TCP & UDP:](https://github.com/lilalizzza/Chat) Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
