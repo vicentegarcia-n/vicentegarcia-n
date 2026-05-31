@@ -47,9 +47,9 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
 - **HPE NETWORKING EDUCATION SERVICES**
 
   a. Get Started for Free
-    - Networking Technology Foundations
-    - Getting Started with WiFi
-    - Getting Started with Cloud
+    - [Networking Technology Foundations](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/HPE%20NETWORKING%20EDUCATION%20SERVICES/Get%20Started%20for%20Free/Networking%20Technology%20Foundations.pdf)
+    - [Getting Started with WiFi](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/HPE%20NETWORKING%20EDUCATION%20SERVICES/Get%20Started%20for%20Free/Getting%20Started%20with%20WiFi.pdf)
+    - [Getting Started with Cloud](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/HPE%20NETWORKING%20EDUCATION%20SERVICES/Get%20Started%20for%20Free/Getting%20Started%20with%20Cloud.pdf)
 
 ## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
