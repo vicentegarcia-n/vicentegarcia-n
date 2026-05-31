@@ -47,6 +47,8 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
 - **HPE NETWORKING EDUCATION SERVICES**
 
   - Networking Technology Foundations
+  - Getting Started with WiFi
+  - Getting Started with Cloud
 
 ## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
