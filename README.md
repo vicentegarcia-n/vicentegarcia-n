@@ -37,7 +37,7 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
   2. [Black Belt Meraki Support Stage 2](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%202.pdf)
   3. [Black Belt Meraki Support Stage 3](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20BLACK%20BELT%20ACADEMY/Meraki%20Support/Black%20Belt%20Meraki%20Support%20Stage%203.pdf)
 
-### Proyectos 🚀
+## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
 - [Chat TCP & UDP:](https://github.com/lilalizzza/Chat) Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
 
