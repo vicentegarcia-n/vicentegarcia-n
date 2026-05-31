@@ -11,7 +11,7 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
 
 ### Licencias y certificaciones 📜
 
-- CISCO NETWORKING ACADEMY <br><br>
+- CISCO NETWORKING ACADEMY <br>
 
   a. Cisco Certified Network Associate (CCNA)
     1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
