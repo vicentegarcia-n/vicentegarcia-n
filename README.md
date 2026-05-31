@@ -52,9 +52,9 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
     - [Getting Started with Cloud](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/HPE%20NETWORKING%20EDUCATION%20SERVICES/Get%20Started%20for%20Free/Getting%20Started%20with%20Cloud.pdf)
 
 - **PELLERA TECHNOLOGIES**
-  - [MSO Time Tracking]()
-  - [MSO Incident Management]()
-  - [MSO Change Management]()
+  - [MSO Time Tracking](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Time%20Tracking.pdf)
+  - [MSO Incident Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Incident%20Management.pdf)
+  - [MSO Change Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Change%20Management.pdf)
 
 ## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
