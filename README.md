@@ -7,9 +7,7 @@ Trabajo directamente con redes y sistemas, enfocándome en la detección, diagn�
 
 Cuento con un enfoque técnico, analítico y orientado a la mejora continua, buscando no solo resolver problemas, sino entender su causa raíz y prevenir su recurrencia.
 
-## ¿Qué he hecho? 🤔
-
-### Licencias y certificaciones 📜
+## Licencias y certificaciones 📜
 
 - **CISCO BLACK BELT ACADEMY**
 
