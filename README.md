@@ -24,7 +24,7 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
     2. [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Cisco%20Certified%20Network%20Associate%20(CCNA)/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
     3. [CCNA: Enterprise Networking, Security, and Automation](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Cisco%20Certified%20Network%20Associate%20(CCNA)/CCNA%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.pdf)
 
-  b. Cisco Certified Support Technician Networking (CCST Networking
+  b. Cisco Certified Support Technician Networking (CCST Networking)
     1. [Networking Basics](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Cisco%20Certified%20Support%20Technician%20Networking%20(CCST%20Networking)/Networking%20Basics.pdf)
 
   c. [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Introduction%20to%20Packet%20Tracer.pdf)
