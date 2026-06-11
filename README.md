@@ -20,16 +20,19 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
 - **CISCO NETWORKING ACADEMY**
 
   a. Cisco Certified Network Associate (CCNA)
-    1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Introduction%20to%20Networks.pdf)
-    2. [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
-    3. [CCNA: Enterprise Networking, Security, and Automation](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/CCNA/CCNA%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.pdf)
+    1. [CCNA: Introduction to Networks](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Cisco%20Certified%20Network%20Associate%20(CCNA)/CCNA%20Introduction%20to%20Networks.pdf)
+    2. [CCNA: Switching, Routing, and Wireless Essentials](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Cisco%20Certified%20Network%20Associate%20(CCNA)/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
+    3. [CCNA: Enterprise Networking, Security, and Automation](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Cisco%20Certified%20Network%20Associate%20(CCNA)/CCNA%20Enterprise%20Networking%2C%20Security%2C%20and%20Automation.pdf)
 
-  b. [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Introduction%20to%20Packet%20Tracer.pdf)
+  b. Cisco Certified Support Technician Networking (CCST Networking
+    1. [Networking Basics](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Cisco%20Certified%20Support%20Technician%20Networking%20(CCST%20Networking)/Networking%20Basics.pdf)
+
+  c. [Introduction to Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Introduction%20to%20Packet%20Tracer.pdf)
     1. [Getting Started with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Getting%20Started%20with%20Cisco%20Packet%20Tracer.pdf)
     2. [Exploring Networking with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Exploring%20Networking%20with%20Cisco%20Packet%20Tracer.pdf)
     3. [Exploring Internet of Things with Cisco Packet Tracer](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Introduction%20to%20Packet%20Tracer/Exploring%20Internet%20of%20Things%20with%20Cisco%20Packet%20Tracer.pdf)
 
-  c. Python Essentials
+  d. Python Essentials
     1. [Python Essentials 1](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/CISCO%20NETWORKING%20ACADEMY/Python%20Essentials/Python%20Essentials%201.pdf)
 
 - **GOOGLE CAREER CERTIFICATES**
