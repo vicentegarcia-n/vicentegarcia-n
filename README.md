@@ -55,9 +55,9 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
     - [Getting Started with Cloud](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/HPE%20NETWORKING%20EDUCATION%20SERVICES/Get%20Started%20for%20Free/Getting%20Started%20with%20Cloud.pdf)
 
 - **KNOWBE4**
-  - [Privileged User Security Privileged Access]()
-  - [Security Moments Privileged User Access Management]()
-  - [Privileged User Security Secure Windows Administration]()
+  - [Privileged User Security Privileged Access](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/KNOWBE4/Privileged%20User%20Security%20Privileged%20Access.pdf)
+  - [Security Moments Privileged User Access Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/KNOWBE4/Security%20Moments%20Privileged%20User%20Access%20Management.pdf)
+  - [Privileged User Security Secure Windows Administration](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/KNOWBE4/Privileged%20User%20Security%20Secure%20Windows%20Administration.pdf)
 
 - **PELLERA TECHNOLOGIES**
   - [MSO Time Tracking](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Time%20Tracking.pdf)
