@@ -72,7 +72,7 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
 
 - **XI Congreso Nacional de Ciencias de la Computación CONACIC 2021**
   - [Conoce Git! ;) y ¿Cómo usarlo?](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XI%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Conoce%20Git!%20%3B)%20y%20%C2%BFC%C3%B3mo%20usarlo.pdf)
-  - [Introducción a las Redes de Computadoras](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XI%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Conoce%20Git!%20%3B)%20y%20%C2%BFC%C3%B3mo%20usarlo.pdf)
+  - [Introducción a las Redes de Computadoras](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XI%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Introducci%C3%B3n%20a%20las%20Redes%20de%20Computadoras.pdf)
   - [Realidad Aumentada en la Palma de tu Mano](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XI%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Realidad%20Aumentada%20en%20la%20Palma%20de%20tu%20Mano.pdf)
 
 - **V Congreso Internacional de Ciencias de la Computación CONACIC 2023**
