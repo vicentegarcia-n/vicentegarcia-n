@@ -64,6 +64,35 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
   - [MSO Incident Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Incident%20Management.pdf)
   - [MSO Change Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Change%20Management.pdf)
 
+## Constancias 📄
+
+- **III Congreso Internacional de Ciencias de la Computación CONACIC 2021**
+  - [3D desde cero con Open Source]()
+  - [Deep Learning]()
+
+- **XI Congreso Nacional de Ciencias de la Computación CONACIC 2021**
+  - [Conoce Git! ;) y ¿Cómo usarlo?]()
+  - [Introducción a las Redes de Computadoras]()
+  - [Realidad Aumentada en la Palma de tu Mano]()
+
+- **V Congreso Internacional de Ciencias de la Computación CONACIC 2023**
+  - [Consensus Learning]()
+  - [Continuous and Probabilistic Representations for Localisation, Mapping and Planning in Robotics]()
+  - [El Humano en el Lazo: XR, Robótica e IA]()
+  - [Generación Automática de Modelos Automáticos a partir de Datos]()
+  - [Hacking Ético Intrusión y Ataque a Sistemas]()
+
+- **XIII Congreso Nacional de Ciencias de la Computación CONACIC 2023**
+  - [Análisis y Procesamiento Digital de Imágenes]()
+  - [Computación Afectiva en Sistemas para el Aprendizaje]()
+  - [Consensus Learning]()
+  - [Planificación de Movimientos de Robots]()
+  - [Protección de Datos LiDAR en Vehículos Autónomos]()
+  - [Redes Innovadoras: Despliegue y Optimización]()
+  - [Retos Asociados al Cambio de Paradigma de la Transportación y el Papel de las Ciencias de la Computación]()
+  - [Sistema de Visión por Computadora para Reconocimiento Biométrico]()
+  - [Tu Pasaporte a Web3: Creando tu Primera Wallet]()
+
 ## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
 - [Chat TCP & UDP:](https://github.com/lilalizzza/Chat) Este chat se realizo en la materia "Sistemas Operativos I", se utilizo Python como lenguaje de programación y se manejaron los protocolos TCP y UDP.
@@ -77,6 +106,6 @@ Proyectos hechos mientras cursaba: Certificado de Ciberseguridad de Google
 - [Actualiza un archivo a través de un algoritmo Python](https://github.com/vicentegarcia-n/actualiza-un-archivo-a-traves-de-un-algoritmo-python)
 
 ## Contáctame 📫
-- Correo electrónico: vicente.garcian@alumno.buap.mx
+- Correo electrónico: yosoyvicentegarcia@outlook.com
 - LinkedIn: [Vicente García](https://www.linkedin.com/in/vicentegarcia-n/)
 - X: [@vicentegarcia_n](https://x.com/vicentegarcia_n)
