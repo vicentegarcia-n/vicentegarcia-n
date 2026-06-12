@@ -67,31 +67,31 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
 ## Constancias 📄
 
 - **III Congreso Internacional de Ciencias de la Computación CONACIC 2021**
-  - [3D desde cero con Open Source]()
-  - [Deep Learning]()
+  - [3D desde cero con Open Source](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/III%20Congreso%20Internacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/3D%20desde%20cero%20con%20Open%20Source.pdf)
+  - [Deep Learning](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/III%20Congreso%20Internacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Deep%20Learning.pdf)
 
 - **XI Congreso Nacional de Ciencias de la Computación CONACIC 2021**
-  - [Conoce Git! ;) y ¿Cómo usarlo?]()
-  - [Introducción a las Redes de Computadoras]()
-  - [Realidad Aumentada en la Palma de tu Mano]()
+  - [Conoce Git! ;) y ¿Cómo usarlo?](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XI%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Conoce%20Git!%20%3B)%20y%20%C2%BFC%C3%B3mo%20usarlo.pdf)
+  - [Introducción a las Redes de Computadoras](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XI%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Introducci%C3%B3n%20a%20las%20Redes%20de%20Computadoras.pdf)
+  - [Realidad Aumentada en la Palma de tu Mano](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XI%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202021/Realidad%20Aumentada%20en%20la%20Palma%20de%20tu%20Mano.pdf)
 
 - **V Congreso Internacional de Ciencias de la Computación CONACIC 2023**
-  - [Consensus Learning]()
-  - [Continuous and Probabilistic Representations for Localisation, Mapping and Planning in Robotics]()
-  - [El Humano en el Lazo: XR, Robótica e IA]()
-  - [Generación Automática de Modelos Automáticos a partir de Datos]()
-  - [Hacking Ético Intrusión y Ataque a Sistemas]()
+  - [Consensus Learning](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/V%20Congreso%20Internacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Consensus%20Learning.pdf)
+  - [Continuous and Probabilistic Representations for Localisation, Mapping and Planning in Robotics](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/V%20Congreso%20Internacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Continuous%20and%20Probabilistic%20Representations%20for%20Localisation%2C%20Mapping%20and%20Planning%20in%20Robotics.pdf)
+  - [El Humano en el Lazo: XR, Robótica e IA](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/V%20Congreso%20Internacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/El%20Humano%20en%20el%20Lazo%20XR%2C%20Rob%C3%B3tica%20e%20IA.pdf)
+  - [Generación Automática de Modelos Automáticos a partir de Datos](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/V%20Congreso%20Internacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Generaci%C3%B3n%20Autom%C3%A1tica%20de%20Modelos%20Autom%C3%A1ticos%20a%20partir%20de%20Datos.pdf)
+  - [Hacking Ético Intrusión y Ataque a Sistemas](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/V%20Congreso%20Internacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Hacking%20%C3%89tico%20Intrusi%C3%B3n%20y%20Ataque%20a%20Sistemas.pdf)
 
 - **XIII Congreso Nacional de Ciencias de la Computación CONACIC 2023**
-  - [Análisis y Procesamiento Digital de Imágenes]()
-  - [Computación Afectiva en Sistemas para el Aprendizaje]()
-  - [Consensus Learning]()
-  - [Planificación de Movimientos de Robots]()
-  - [Protección de Datos LiDAR en Vehículos Autónomos]()
-  - [Redes Innovadoras: Despliegue y Optimización]()
-  - [Retos Asociados al Cambio de Paradigma de la Transportación y el Papel de las Ciencias de la Computación]()
-  - [Sistema de Visión por Computadora para Reconocimiento Biométrico]()
-  - [Tu Pasaporte a Web3: Creando tu Primera Wallet]()
+  - [Análisis y Procesamiento Digital de Imágenes](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/An%C3%A1lisis%20y%20Procesamiento%20Digital%20de%20Im%C3%A1genes.pdf)
+  - [Computación Afectiva en Sistemas para el Aprendizaje](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Computaci%C3%B3n%20Afectiva%20en%20Sistemas%20para%20el%20Aprendizaje.pdf)
+  - [Consensus Learning](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Consensus%20Learning.pdf)
+  - [Planificación de Movimientos de Robots](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Planificaci%C3%B3n%20de%20Movimientos%20de%20Robots.pdf)
+  - [Protección de Datos LiDAR en Vehículos Autónomos](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Protecci%C3%B3n%20de%20Datos%20LiDAR%20en%20Veh%C3%ADculos%20Aut%C3%B3nomos.pdf)
+  - [Redes Innovadoras: Despliegue y Optimización](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Redes%20Innovadoras%20Despliegue%20y%20Optimizaci%C3%B3n.pdf)
+  - [Retos Asociados al Cambio de Paradigma de la Transportación y el Papel de las Ciencias de la Computación](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Retos%20Asociados%20al%20Cambio%20de%20Paradigma%20de%20la%20Transportaci%C3%B3n%20y%20el%20Papel%20de%20las%20Ciencias%20de%20la%20Computaci%C3%B3n.pdf)
+  - [Sistema de Visión por Computadora para Reconocimiento Biométrico](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Sistema%20de%20Visi%C3%B3n%20por%20Computadora%20para%20Reconocimiento%20Biom%C3%A9trico.pdf)
+  - [Tu Pasaporte a Web3: Creando tu Primera Wallet](https://github.com/vicentegarcia-n/constancias/blob/main/Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20(CONACIC)/XIII%20Congreso%20Nacional%20de%20Ciencias%20de%20la%20Computaci%C3%B3n%20CONACIC%202023/Tu%20Pasaporte%20a%20Web3%20Creando%20tu%20Primera%20Wallet.pdf)
 
 ## Proyectos 🚀
 Proyectos hechos mientras cursaba: Ingeniería en Ciencias de la Computación
