@@ -61,8 +61,9 @@ Cuento con un enfoque técnico, analítico y orientado a la mejora continua, bus
 
 - **PELLERA TECHNOLOGIES**
   - [MSO Time Tracking](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Time%20Tracking.pdf)
-  - [MSO Incident Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Incident%20Management.pdf)
   - [MSO Change Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Change%20Management.pdf)
+  - [MSO Incident Management](https://github.com/vicentegarcia-n/licencias-y-certificaciones/blob/main/PELLERA%20TECHNOLOGIES/MSO%20Incident%20Management.pdf)
+  - [MSO Change Management Refresher]()
 
 ## Constancias 📄
 
